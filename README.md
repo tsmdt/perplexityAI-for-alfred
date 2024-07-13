@@ -6,5 +6,8 @@ Lightweight workflow to query [perplexity.ai](https://www.perplexity.ai) with [A
 ## Requirements
 * Alfred 5
 
+## Usage
+Type `plex` followed by your question
+
 ## License
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
