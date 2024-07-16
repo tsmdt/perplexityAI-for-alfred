@@ -1,7 +1,7 @@
-# perplexity.ai for Alfred
-Lightweight workflow to search / query [perplexity.ai](https://www.perplexity.ai) with [Alfred](https://www.alfredapp.com/).
+# perplexity.ai search for Alfred
+Lightweight workflow to search [perplexity.ai](https://www.perplexity.ai) with [Alfred](https://www.alfredapp.com/).
 
-<img src="https://github.com/user-attachments/assets/4349d4c0-c2ff-48ed-ab06-9c19141c4eb8" width="90%">
+<img src="https://github.com/user-attachments/assets/cd556074-2b05-4606-acef-129a533f74b3" width="70%">
 
 ## Requirements
 * Alfred 5
